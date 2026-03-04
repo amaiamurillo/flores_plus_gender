@@ -1,5 +1,5 @@
 # FLORES+Gender
-[![Hugging Face Dataset](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-yellow)](https://huggingface.co/datasets/amaiamurillo/flores_plus_gender)
+[![Hugging Face Dataset](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-yellow)](https://huggingface.co/datasets/HiTZ/flores_plus_gender)
 
 
 This dataset builds on the [FLORES+](https://huggingface.co/datasets/openlanguagedata/flores_plus/viewer/spa_Latn/devtest) benchmark, developed by Meta to assess machine translation (MT) systems for low-resource languages. **FLORES+Gender** is designed to assess gender bias in MT. While the typical approach examines bias by translating from a genderless language into a gendered one, this dataset follows the methodology of [Costa-jussà et al. (2023)](https://arxiv.org/abs/2305.13198) and reverses the direction to analyse whether translation quality is affected by the predominant grammatical gender of the source sentence when translating from a gendered language (Spanish or English) into a genderless one (Basque). 
