@@ -30,8 +30,7 @@ Each row in the dataset contains the following columns:
 
 
 ## Citation
-
-If you use this dataset in your work, please make sure to also cite the original FLORES-200 paper, since FLORES+ is based on it:
+If you use this dataset in your work, please make sure to cite both the original FLORES-200 paper, since FLORES+ is based on it, and our paper introducing FLORES+Gender:
 
 ```bibtex
 @article{nllb-24,
@@ -45,6 +44,18 @@ If you use this dataset in your work, please make sure to also cite the original
     issn="1476-4687",
     doi="10.1038/s41586-024-07335-x",
     url="https://doi.org/10.1038/s41586-024-07335-x"
+}
+```
+
+```bibtex
+@misc{murillo2026genderbiasmtgenderless,
+      title={Gender Bias in MT for a Genderless Language: New Benchmarks for Basque}, 
+      author={Amaia Murillo and Olatz-Perez-de-Viñaspre and Naiara Perez},
+      year={2026},
+      eprint={2603.08153},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2603.08153}, 
 }
 ```
 
