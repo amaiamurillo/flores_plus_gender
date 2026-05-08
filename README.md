@@ -62,5 +62,13 @@ inproceedings{murillo-etal-2026-gender,
 }
 ```
 
-## Dataset Card Contact
-amaia.murillo@ehu.eus
+## Acknowledgements
+
+This work was supported by the HiTZ Chair of Artificial Intelligence and Language Technology (TSI100923-2023-1), funded by MTDFP, _Secretaría de Estado de Digitalización e Inteligencia Artificial_.
+Additional support was provided by the Research Project PID2024-157855OB-C32 (MOLVI), funded by MICIU/AEI/10.13039/501100011033 and the European Regional Development Fund (ERDF), EU. 
+It was also funded by the Basque Government (IKER-GAITU project) and the _Ministerio para la Transformación Digital y de la Función Pública_ - Funded by EU – NextGenerationEU within the framework of the project _Desarrollo de Modelos ALIA_.
+
+## Contact
+amaia.murillo@ehu.eus  
+olatz.perezdevinaspre@ehu.eus  
+naiara.perez@ehu.eus
