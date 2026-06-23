@@ -69,6 +69,6 @@ Additional support was provided by the Research Project PID2024-157855OB-C32 (MO
 It was also funded by the Basque Government (IKER-GAITU project) and the _Ministerio para la Transformación Digital y de la Función Pública_ - Funded by EU – NextGenerationEU within the framework of the project _Desarrollo de Modelos ALIA_.
 
 ## Contact
-amaia.murillo@ehu.eus  
-olatz.perezdevinaspre@ehu.eus  
-naiara.perez@ehu.eus
+* Amaia Murillo (amaia.murillo@ehu.eus)
+* Olatz Perez de Viñaspre (olatz.perezdevinaspre@ehu.eus)
+* Naiara Perez (naiara.perez@ehu.eus)
